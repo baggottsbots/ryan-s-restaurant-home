@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/ryan-s-restaurant-home/contact/</loc>
+    <lastmod>2026-05-07T01:35:21.162Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/ryan-s-restaurant-home/about/</loc>
     <lastmod>2026-05-07T01:34:54.718Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://baggottsbots.github.io/ryan-s-restaurant-home/</loc>
     <lastmod>2026-05-07T01:34:16.792Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/ryan-s-restaurant-home/contact/</loc>
-    <lastmod>2026-05-07T01:30:07.870Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
